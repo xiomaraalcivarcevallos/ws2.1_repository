@@ -1,4 +1,2 @@
-# ws2.1_repository
-### test repository - Workshop 2.1
-
-
+# FLIP - ITSELF
+## Group 4 - Saba, Xio, Yunghsuan
