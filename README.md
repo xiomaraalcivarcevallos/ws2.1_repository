@@ -16,4 +16,6 @@ This project applies formal System Engineering Management principles to the desi
 
 <img width="932" height="542" alt="image" src="https://github.com/user-attachments/assets/e4a4c58c-ce8e-4497-ac0b-b05a29ea12cb" />
 
+### Regarding the integration of this logic into a robotic arm: how do we account for the fixed-base requirement where the unit is anchored to the floor?
 
+<img width="585" height="1024" alt="image" src="https://github.com/user-attachments/assets/19735922-79cc-41c5-b0cd-946b3cbad738" />
