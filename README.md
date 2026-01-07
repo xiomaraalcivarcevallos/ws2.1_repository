@@ -1,2 +1,15 @@
 # FLIP - ITSELF
-## Group 4 - Saba, Xio, Yunghsuan
+### Group 4 - Saba, Xio, Yunghsuan
+
+This project applies formal System Engineering Management principles to the design and execution of a 360-degree longitudinal rotation.
+
+1. Phasing (Movement Phases)
+
+<img width="860" height="492" alt="image" src="https://github.com/user-attachments/assets/a546603d-5c25-463a-940b-9ba581ec1431" />
+
+2. Systems Engineering Process (Technical Process)
+
+<img width="1218" height="278" alt="image" src="https://github.com/user-attachments/assets/9c0878b8-f3c9-499f-8722-9154744f88be" />
+
+
+3. Life Cycle Integration
